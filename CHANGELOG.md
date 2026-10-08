@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/a2aproject/a2a-js/compare/v1.3.0...v1.3.1) (2026-10-08)
+
+
+### Bug Fixes
+
+* **client:** preserve first matching client interface ([#764](https://github.com/a2aproject/a2a-js/issues/764)) ([ca14b82](https://github.com/a2aproject/a2a-js/commit/ca14b824bc072533ff9b8720fb6b830041e9f4d9))
+
 ## [1.3.0](https://github.com/a2aproject/a2a-js/compare/v1.2.1...v1.3.0) (2026-09-29)
 
 
